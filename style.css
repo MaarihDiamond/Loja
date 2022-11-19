@@ -21,7 +21,7 @@
 }
 
 .planosTextos {
-  background-image: url("images/plano1.jpg");
+  background-image: url("images/plano2.jpg");
   background-size: 200px ;
   background-repeat: no-repeat;
   margin: auto;
@@ -42,26 +42,24 @@
 }
 
 .planosTextos1 {
-  background-image: url("images/plano2.jpg");
-  background-size: 195px ;
+  background-image: url("images/plano1.jpg");
+  background-size: 200px ;
   background-repeat: no-repeat;
-
-  color: white;
-  text-decoration-color: blue;
-  text-decoration: solid;
-  text-shadow: 2px 0px 1px rgb(238, 12, 12);
-
   margin: auto;
   padding: auto;
+
+  color: white;
+  text-decoration-color: rgb(255, 0, 0);
+  text-decoration: solid;
+  text-shadow: 2px 0px 1px rgb(255, 0, 0);
+
+  margin-bottom: 15px;
   text-align: center;
   height: 250px;
   width: 170px;
-
-  margin-bottom: 15px;
-
   border-radius: 5px 25px 5px 25px;
   border: solid 1px;
-  border-color: rgb(255, 51, 0);
+  border-color: rgb(255, 8, 20);
 }
 
 .planosTextos2{
