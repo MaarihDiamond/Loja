@@ -21,9 +21,16 @@
 }
 
 .planosTextos {
-
+  background-image: url("images/plano1.jpg");
+  background-size: 200px ;
+  background-repeat: no-repeat;
   margin: auto;
   padding: auto;
+
+  color: white;
+  text-decoration-color: blue;
+  text-decoration: solid;
+  text-shadow: 2px 0px 1px rgb(0, 38, 255);
 
   margin-bottom: 15px;
   text-align: center;
@@ -35,6 +42,16 @@
 }
 
 .planosTextos1 {
+  background-image: url("images/plano2.jpg");
+  background-size: 170px ;
+  background-repeat: no-repeat;
+
+  color: white;
+  text-decoration-color: blue;
+  text-decoration: solid;
+  text-shadow: 2px 0px 1px rgb(238, 12, 12);
+
+
   margin: auto;
   padding: auto;
   text-align: center;
@@ -50,6 +67,15 @@
 
 .planosTextos2{
 
+  background-image: url("images/plano3.jpg");
+  background-size: 190px ;
+
+
+  color: white;
+  text-decoration-color: blue;
+  text-decoration: solid;
+  text-shadow: 2px 0px 1px rgb(205, 3, 255);
+
   margin: auto;
   padding: auto;
   text-align: center;
@@ -57,7 +83,7 @@
   width: 170px;
   border-radius: 5px 25px 5px 25px;
   border: solid 1px;
-  border-color: rgb(102, 204, 0);
+  border-color: rgb(210, 9, 250);
 }
 
 .planosTextos h1{
@@ -66,6 +92,8 @@
   justify-content: center;
   margin: 15px;
   padding: auto;
+ 
+
 }
 
 .planosTextos1 h1{
@@ -74,6 +102,7 @@
   justify-content: center;
   margin: 15px;
   padding: auto;
+  
 }
 
 .planosTextos2 h1{
@@ -101,7 +130,7 @@
   box-shadow: 0px 1px 2px 0px rgb(9, 95, 255),
   1px 2px 4px 0px rgba(26, 59, 248, 0.959),
   2px 4px 8px 0px rgb(8, 115, 255),
-  2px 4px 16px 0px rgb(19, 77, 238)
+  2px 4px 16px 0px rgb(19, 77, 238);
 }
 
 .planosTextos1:hover
@@ -109,7 +138,7 @@
   box-shadow: 0px 1px 2px 0px rgb(255, 9, 9),
   1px 2px 4px 0px rgb(255, 17, 17),
   2px 4px 8px 0px rgb(255, 2, 2),
-  2px 4px 16px 0px rgb(245, 0, 0)
+  2px 4px 16px 0px rgb(245, 0, 0);
 }
 
 .planosTextos2:hover
