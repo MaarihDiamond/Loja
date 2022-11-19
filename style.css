@@ -42,7 +42,7 @@
 }
 
 .planosTextos1 {
-  background-image: url("images/Plano2.jpg");
+  background-image: url("images/plano2.jpg");
   background-size: 170px ;
   background-repeat: no-repeat;
 
@@ -68,8 +68,7 @@
 .planosTextos2{
 
   background-image: url("images/plano3.jpg");
-  background-size: 190px ;
-
+  background-size: 190px;
 
   color: white;
   text-decoration-color: blue;
@@ -86,23 +85,20 @@
   border-color: rgb(210, 9, 250);
 }
 
-.planosTextos h1{
+.planosTextos h1 {
   display: flex;
   text-align: center;
   justify-content: center;
   margin: 15px;
   padding: auto;
- 
-
 }
 
-.planosTextos1 h1{
+.planosTextos1 h1 {
   display: flex;
   text-align: center;
   justify-content: center;
   margin: 15px;
   padding: auto;
-  
 }
 
 .planosTextos2 h1{
@@ -148,8 +144,6 @@
   2px 4px 8px 0px rgb(51, 255, 0),
   2px 4px 16px 0px rgb(43, 255, 0)
 }
-
-
 
 .AmostraTexto {
   color: white;
@@ -217,7 +211,6 @@
 
   margin-left: 25px;
   margin-right: 25px;
-
 }
 
 
@@ -237,7 +230,7 @@
 
 .Sobremim {
   
-  height: 300px;
+  height: 301px;
   width: auto;
 
   display: flex;
