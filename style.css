@@ -43,14 +43,13 @@
 
 .planosTextos1 {
   background-image: url("images/plano2.jpg");
-  background-size: 170px ;
+  background-size: 195px ;
   background-repeat: no-repeat;
 
   color: white;
   text-decoration-color: blue;
   text-decoration: solid;
   text-shadow: 2px 0px 1px rgb(238, 12, 12);
-
 
   margin: auto;
   padding: auto;
